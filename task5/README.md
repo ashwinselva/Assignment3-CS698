@@ -1,1 +1,1 @@
-integrated stella vslam in docker compose file
+integrated stella vslam in docker file
